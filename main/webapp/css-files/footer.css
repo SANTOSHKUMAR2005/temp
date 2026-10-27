@@ -1,0 +1,14 @@
+
+footer {
+	width:100%;
+    background: #0077b6;
+    color: white;
+    text-align: center;
+    padding: 20px 10px; 
+}
+
+@media (max-width:640px){
+	footer {
+	padding:40px 10px;
+	}
+}
